@@ -22,16 +22,20 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "wacrm",
-    template: "%s — wacrm",
+    default: "Wapi — Next-Gen WhatsApp API",
+    template: "%s — Wapi",
   },
-  description: "Self-hostable CRM template for WhatsApp.",
+  description: "Wapi — Next-Gen WhatsApp API",
   robots: {
     index: false,
     follow: false,
   },
   icons: {
-    icon: [{ url: "/icon" }],
+    icon: [
+      {
+        url: "https://www.thewapi.com/media-storage/favicon/69f055cac16c0---logo-10.png",
+      },
+    ],
   },
   formatDetection: {
     email: false,
