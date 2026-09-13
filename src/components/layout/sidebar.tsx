@@ -190,7 +190,7 @@ export function Sidebar({ open = false, onClose }: SidebarProps) {
           <Link href="/dashboard" className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center overflow-hidden rounded-lg">
               <img
-                src="https://thewapi.com/media-storage/logo/69f055b1187d6---logo-9.png"
+                src="https://www.thewapi.com/media-storage/favicon/69f055cac16c0---logo-10.png"
                 alt="Wapi"
                 className="h-8 w-8 object-contain"
               />
